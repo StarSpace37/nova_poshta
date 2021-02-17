@@ -1,4 +1,4 @@
-# nova_poshta
+# nova_poshta PHP
 как добавить "Нова Пошта" на ваш сайт 
 Устанавливаем XAMPP, создаём MySQL, и в phpMyAdmin создаём Базу Данных, называем её nova_poshta
 теперь заходим в своём ПК в  xampp > htdocs >  nova_poshta > и закидываем сюда все файлы из git
